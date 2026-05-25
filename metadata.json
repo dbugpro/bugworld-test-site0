@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Bugworld Test Site",
+  "description": "An interactive digital insect ecology sandbox and diagnostics lab where you can synthesize genetic profiles, spawn environmental disasters, run benchmarking test suites, and retrieve Gemini-powered scientific diagnostics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
